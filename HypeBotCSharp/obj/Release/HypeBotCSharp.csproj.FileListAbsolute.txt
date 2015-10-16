@@ -1,0 +1,22 @@
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\bin\Release\HypeBotCSharp.exe.config
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\bin\Release\HypeBotCSharp.exe
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\bin\Release\HypeBotCSharp.pdb
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\bin\Release\ChatSharp.dll
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\bin\Release\IrcDotNet.dll
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\bin\Release\IrcDotNet.xml
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.csprojResolveAssemblyReference.cache
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\IrcConnectionDialog.g.cs
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\MainWindow.g.cs
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\App.g.cs
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp_MarkupCompile.cache
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp_MarkupCompile.lref
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\IrcConnectionDialog.baml
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\MainWindow.baml
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.g.resources
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.Properties.Resources.resources
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.csproj.GenerateResource.Cache
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.exe
+C:\Users\TheQuack45\documents\visual studio 2015\Projects\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.pdb
+C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\bin\Release\HypeBotCSharp.exe.config
+C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.exe
+C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\obj\Release\HypeBotCSharp.pdb
