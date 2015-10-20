@@ -70,19 +70,21 @@ namespace HypeBotCSharp
             }
             ircClient = new IrcClient(ircHostname, ircConnectionUser);
 
-            ircClient.ConnectionComplete += (s, e2) => botOutputBox.AppendText("Connection Completed");
+            ircClient.ConnectionComplete += (s, e2) => publicOutputBoxAppend(botOutputBox, "Connection Completed");
 
-            ircClient.RawMessageRecieved += (s, messageReceivedEventArgs) =>
-            {
-                botOutputBox.AppendText(messageReceivedEventArgs.Message.ToString());
-            };
+            ircClient.RawMessageRecieved += (s, messageReceivedEventArgs) => publicOutputBoxAppend(botOutputBox, messageReceivedEventArgs.Message.ToString());
 
             ircClient.ConnectAsync();
         }
 
-        private void handleMessage(PrivateMessageEventArgs messageReceivedEventArgs)
+        private void handleMessage(RawMessageEventArgs messageReceivedEventArgs)
         {
             
+        }
+
+        private void publicOutputBoxAppend(RichTextBox targetBox, string text)
+        {
+            targetBox.Dispatcher.Invoke(new Action(() => targetBox.AppendText(text + "\r\n")));
         }
     }
 }
