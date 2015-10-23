@@ -32,3 +32,78 @@ C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\obj
 C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.g.resources
 C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.Properties.Resources.resources
 C:\Users\TheQuack45\Documents\GitHubVisualStudio\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.csproj.GenerateResource.Cache
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe.config
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.exe
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.pdb
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\HypeBotCSharp.pdb
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\ChatSharp.dll
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.csprojResolveAssemblyReference.cache
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\IrcConnectionDialog.g.cs
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\MainWindow.g.cs
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\App.g.cs
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.cache
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.lref
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\IrcConnectionDialog.baml
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\MainWindow.baml
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.g.resources
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.Properties.Resources.resources
+C:\Users\ktprog\Desktop\Daniel Quackenbush Exploratory\C#\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.csproj.GenerateResource.Cache
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe.config
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.exe
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.pdb
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\HypeBotCSharp.pdb
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\bin\Debug\ChatSharp.dll
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.csprojResolveAssemblyReference.cache
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\IrcConnectionDialog.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\MainWindow.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\App.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.cache
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.lref
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\IrcConnectionDialog.baml
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\MainWindow.baml
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.g.resources
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.Properties.Resources.resources
+E:\Programming\10-20-15\HypeBotCSharp-master\HypeBotCSharp\obj\Debug\HypeBotCSharp.csproj.GenerateResource.Cache
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe.config
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp.exe
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp.pdb
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\bin\Debug\HypeBotCSharp.pdb
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\bin\Debug\ChatSharp.dll
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp.csprojResolveAssemblyReference.cache
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\IrcConnectionDialog.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\MainWindow.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\App.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.cache
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.lref
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\IrcConnectionDialog.baml
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\MainWindow.baml
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp.g.resources
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp.Properties.Resources.resources
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\HypeBotCSharp.csproj.GenerateResource.Cache
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\bin\Debug\RedditSharp.dll
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\RedditConnectionDialog.baml
+E:\Programming\10-20-15\HypeBotCSharp-master-Git\HypeBotCSharp\obj\Debug\RedditConnectionDialog.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe.config
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.exe
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.pdb
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\bin\Debug\HypeBotCSharp.exe
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\bin\Debug\HypeBotCSharp.pdb
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\bin\Debug\ChatSharp.dll
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.csprojResolveAssemblyReference.cache
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\RedditConnectionDialog.baml
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\IrcConnectionDialog.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\MainWindow.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\RedditConnectionDialog.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\App.g.cs
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.cache
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp_MarkupCompile.lref
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\IrcConnectionDialog.baml
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\MainWindow.baml
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.g.resources
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.Properties.Resources.resources
+E:\Programming\10-20-15\HypeBotCSharp-GitClone\HypeBotCSharp\HypeBotCSharp\obj\Debug\HypeBotCSharp.csproj.GenerateResource.Cache
